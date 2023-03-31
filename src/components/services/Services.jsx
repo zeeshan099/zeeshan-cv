@@ -1,6 +1,6 @@
 import React from 'react'
 import './services.css'
-import {TbCheck} from 'react-icons/tb'
+import {BiCheck} from 'react-icons/bi'
 
 const Services = () => {
   return (
@@ -15,28 +15,28 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
           </ul>
@@ -51,61 +51,68 @@ const Services = () => {
 
           <ul className="service__list">
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
+                </p>
+            </li>
+            <li>
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
           </ul>
+
+
         </article>
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Content Creation</h3>
           </div>
 
           <ul className="service__list">
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
             <li>
-                <TbCheck className='service__list-icon'/>
-                <p>Lorem ipsum dolor, sit amet consectetur.
+                <BiCheck className='service__list-icon'/>
+                <p>Lorem ipsum dolor, sit.
                 </p>
             </li>
           </ul>
