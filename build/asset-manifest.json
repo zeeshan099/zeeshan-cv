@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zeeshan-cv/static/css/main.5550108c.css",
+    "main.js": "/zeeshan-cv/static/js/main.4041872e.js",
+    "static/media/me.png": "/zeeshan-cv/static/media/me.224c3c3b8ca21683ffa0.png",
+    "static/media/about.jpg": "/zeeshan-cv/static/media/about.07b9b1b7669ea74c22ce.jpg",
+    "index.html": "/zeeshan-cv/index.html",
+    "main.5550108c.css.map": "/zeeshan-cv/static/css/main.5550108c.css.map",
+    "main.4041872e.js.map": "/zeeshan-cv/static/js/main.4041872e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5550108c.css",
+    "static/js/main.4041872e.js"
+  ]
+}
