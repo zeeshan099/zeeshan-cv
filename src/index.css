@@ -38,7 +38,7 @@ body{
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/cubes.png);
+    background-image: url(../src/assets/white-wall-3-2.png);
 
 }
 
@@ -93,17 +93,20 @@ a:hover{
     cursor: pointer;
     border: 1px solid var(--color-primary);
     transition: var(--transition);
+    box-shadow: rgba(0, 0, 0, 0.313) 0px 8px 16px;
+    
 }
 
 .btn:hover{
-    background: var(--color-white);
-    color: var(--color-bg);
+    background: #222831;
+    color: rgb(255, 255, 255);
     border: transparent;
 }
 
 .btn-primary{
-    background: var(--color-primary);
+    background: rgb(255, 255, 255);
     color: var(--color-bg);
+    border: transparent;
 }
 
 img {

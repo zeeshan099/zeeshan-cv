@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2.5rem;
+    
 }
 
 .portfolio__item {
@@ -9,12 +10,14 @@
     padding: 1.3rem;
     border-radius: 2rem;
     border: 1px solid transparent;
-    transition: var(--transition);
+    box-shadow: rgba(0, 0, 0, 0.313) 0px 8px 16px;
+    
 }
 
 .portfolio__item:hover {
-    border-color: var(--color-primary-variant);
-    background: transparent;
+    border: transparent;
+    background: #22283162;
+    backdrop-filter: blur(5px);
 }
 
 .portfolio__item-image {

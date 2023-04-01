@@ -7,15 +7,16 @@
 .service{
     background: var(--color-bg-variant);
     border-radius: 1rem 1rem 3rem 3rem;
-    border: 1px solid var(--color-primary);
     height: fit-content;
     transition: var(--transition);
+    box-shadow: rgba(0, 0, 0, 0.313) 0px 8px 16px;
 }
 
 .service:hover{
-    background: transparent;
-    border-color: var(--color-primary-variant);
+    background: #22283162;
+    border: transparent;
     cursor: default;
+    backdrop-filter: blur(5px);
 }
 
 .service__head{

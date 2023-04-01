@@ -11,6 +11,7 @@
     background: linear-gradient(45deg, transparent, var(--color-primary), transparent);
     display: grid;
     place-items: center;
+    box-shadow: rgba(0, 0, 0, 0.313) 0px 8px 16px;
 
 }
 
@@ -19,6 +20,7 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    box-shadow: rgba(0, 0, 0, 0.313) 0px 8px 16px;
 }
 
 .about__me-image:hover{
@@ -38,6 +40,7 @@
     padding: 2rem;
     text-align: center;
     transition: var(--transition);
+    box-shadow: rgba(0, 0, 0, 0.313) 0px 8px 16px;
 }
 
 .about__card:hover{

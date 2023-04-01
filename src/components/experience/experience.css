@@ -5,23 +5,18 @@
 }
 
 .experience__container > div {
-    background: var(--color-bg-variant);
+    background-image: radial-gradient( circle 700px at 30% 10%,  #00ADB5 25%, #0080FE 80%, #0080FE 90.8% );
     padding: 2.4rem 5rem;
     border-radius: 2rem;
-    border: 1px solid transparent;
-    transition: var(--transition);
-}
-
-.experience__container > div:hover{
-    background: transparent;
-    border-color: var(--color-primary-variant);
+    box-shadow: rgba(0, 0, 0, 0.313) 0px 8px 16px;
     cursor: default;
 }
+
 
 .experience__container > div h3 {
     text-align: center;
     margin-bottom: 2rem;
-    color: var(--color-primary);
+    color: var(--color-primary-variant);
 }
 
 .experience__content{
@@ -39,6 +34,21 @@
     margin-top:6px ;
     color: var(--color-primary);
 }
+
+.experience__details-icon-experienced{
+    color: #222831;
+}
+.experience__details-icon-intermediate{
+color: #222831;
+    
+}
+.experience__details-icon{
+    color: #222831;
+}
+h4{
+    color: #222831;
+}
+
 
 @media screen and (max-width: 1024px) {
    .experience__container{
