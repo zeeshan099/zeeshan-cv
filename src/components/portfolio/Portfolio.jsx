@@ -17,7 +17,7 @@ const Portfolio = () => {
         'BookStore app that allows users to store books and update progress',
       technologies: 'React | Redux | Ruby on Rails',
       link: 'https://melodic-boba-111583.netlify.app/',
-      github: 'https://github.com/Meri-MG/bookstore---react',
+      github: 'https://github.com',
     },
     {
       id: 2,
@@ -26,8 +26,8 @@ const Portfolio = () => {
       description:
         'FakeStore app that provides information about available products and their details',
       technologies: 'React | Redux',
-      link: 'https://fakestore-metrics.netlify.app/',
-      github: 'https://github.com/Meri-MG/Fakestore---react',
+      link: 'https://github.com',
+      github: 'https://github.com',
     },
     {
       id: 3,
@@ -35,8 +35,8 @@ const Portfolio = () => {
       img: IMG2,
       description: 'User friendly app to plan your day and manage tasks',
       technologies: 'JavaScript | Webpack',
-      link: 'https://meri-mg.github.io/To-Do-List/dist/',
-      github: 'https://github.com/Meri-MG/To-Do-List',
+      link: 'https://github.com',
+      github: 'https://github.com',
     },
     {
       id: 4,
@@ -45,8 +45,8 @@ const Portfolio = () => {
       description:
         'Fully responsive interactive website built based on Figma design',
       technologies: 'JavaScript | CSS',
-      link: 'https://meri-mg.github.io/shelter/pages/main/index.html',
-      github: 'https://github.com/Meri-MG/shelter',
+      link: 'https://github.com',
+      github: 'https://github.com',
     },
     {
       id: 5,
@@ -55,8 +55,8 @@ const Portfolio = () => {
       description:
         'Fully responsive interactive website built based on Adobe XD design',
       technologies: 'JavaScript | CSS',
-      link: 'https://meri-mg.github.io/Unilab-world-news/',
-      github: 'https://github.com/Meri-MG/Unilab-world-news',
+      link: 'https://github.com',
+      github: 'https://github.com',
     },
     {
       id: 6,
@@ -65,8 +65,8 @@ const Portfolio = () => {
       description:
         'Real-world group project which is still in progress and will provide educational platform for future young developers',
       technologies: 'JavaScript | Scss | Python',
-      link: 'https://lukinoo.github.io/math-resource/',
-      github: 'https://github.com/lukinoo/math-resource',
+      link: 'https://github.com',
+      github: 'https://github.com',
     },
   ];
 
