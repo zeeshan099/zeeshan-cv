@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zeeshan-cv/static/css/main.99d04c38.css",
-    "main.js": "/zeeshan-cv/static/js/main.af951086.js",
+    "main.css": "/zeeshan-cv/static/css/main.082ad578.css",
+    "main.js": "/zeeshan-cv/static/js/main.e978ddd9.js",
     "static/media/UI-UX5.jpg": "/zeeshan-cv/static/media/UI-UX5.32cdcc7a931e4f48a5e2.jpg",
     "static/media/UI-UX4.jpg": "/zeeshan-cv/static/media/UI-UX4.cc056cabb490ee2bc37d.jpg",
     "static/media/UI-UX3.jpg": "/zeeshan-cv/static/media/UI-UX3.0bb1c02aa1475ec5be04.jpg",
@@ -10,12 +10,14 @@
     "static/media/UI-UX1.jpg": "/zeeshan-cv/static/media/UI-UX1.2c43534c361c17e0f332.jpg",
     "static/media/me.png": "/zeeshan-cv/static/media/me.224c3c3b8ca21683ffa0.png",
     "static/media/about.jpg": "/zeeshan-cv/static/media/about.07b9b1b7669ea74c22ce.jpg",
+    "static/media/CVimg.jpeg": "/zeeshan-cv/static/media/CVimg.56410057fbe2f3f1130a.jpeg",
+    "static/media/white-wall-3-2.png": "/zeeshan-cv/static/media/white-wall-3-2.94638aee91e8db3e5311.png",
     "index.html": "/zeeshan-cv/index.html",
-    "main.99d04c38.css.map": "/zeeshan-cv/static/css/main.99d04c38.css.map",
-    "main.af951086.js.map": "/zeeshan-cv/static/js/main.af951086.js.map"
+    "main.082ad578.css.map": "/zeeshan-cv/static/css/main.082ad578.css.map",
+    "main.e978ddd9.js.map": "/zeeshan-cv/static/js/main.e978ddd9.js.map"
   },
   "entrypoints": [
-    "static/css/main.99d04c38.css",
-    "static/js/main.af951086.js"
+    "static/css/main.082ad578.css",
+    "static/js/main.e978ddd9.js"
   ]
 }
